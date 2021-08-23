@@ -1,7 +1,14 @@
 # FOSS4G-NL 2018 - at Aeres Almere Website
+
 This website was built with the
-Project Zeppelin / GDG DevFest 2014 site template. See details
-below.
+Project Zeppelin / GDG DevFest 2014 site template by Jasper Roest. 
+
+## Credits
+This website was originally made by RUG by Jasper Roest.
+In 2021 it was archived by Just van den Broecke @justb4 
+to be permanently available via the URL https://2017.foss4g.nl
+
+See details below.
 
 # Project Zeppelin / GDG DevFest 2014 site template
 
